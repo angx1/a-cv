@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.15.5"
+    "@astrojs/ts-plugin": "^1.10.2",
+    "astro": "^4.15.5",
+    "ninja-keys": "^1.2.2"
   }
 }
