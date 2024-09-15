@@ -1,6 +1,8 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://angx1.github.io',
+  site: 'angel-rodriguez-moran.dev',
   base: 'a-cv',
 });
+
+
