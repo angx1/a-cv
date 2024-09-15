@@ -1,7 +1,5 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: 'angel-rodriguez-moran.dev'
-});
-
-
+  site: 'https://angel-rodriguez-moran.dev/',
+})
