@@ -2,7 +2,7 @@
 import { lastUpdate } from "@cv";
 ---
 
-<div class="ticker-wrapper">
+<div class="ticker-wrapper no-print">
   <div class="ticker">
     <span class="ticker-item">Last update: {lastUpdate}</span>
   </div>
@@ -37,6 +37,12 @@ import { lastUpdate } from "@cv";
     }
     100% {
       transform: translate3d(-100%, 0, 0);
+    }
+  }
+
+  @media print {
+    .no-print {
+      display: none;
     }
   }
 </style>
