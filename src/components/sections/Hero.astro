@@ -57,7 +57,6 @@ const SOCIAL_ICONS: Record<string, any> = {
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
-    flex: 1;
   }
 
   h1 {
@@ -92,6 +91,8 @@ const SOCIAL_ICONS: Record<string, any> = {
     flex-direction: column;
     gap: 0.5rem;
     padding-right: 32px;
+    flex: 1;
+    max-width: calc(100% - 160px); /* Adjust based on your image width */
   }
 
   footer {
@@ -116,6 +117,20 @@ const SOCIAL_ICONS: Record<string, any> = {
   footer a:hover {
     background: #eee;
     border: 1px solid #ddd;
+  }
+
+  @media screen and (max-width: 600px) {
+    .container {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .info {
+      padding-right: 0;
+      max-width: 100%;
+    }
+    img {
+      width: 70%;
+    }
   }
 
   @media print {

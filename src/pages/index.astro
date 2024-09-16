@@ -26,11 +26,11 @@ const { banner } = basics;
       <Languages />
     </div>
     <Experience />
-    <div class="container-main">
+    <div class="container-main project-skill">
       <Projects />
       <Skills />
     </div>
-    <Credits />
+    <Credits class="no-print" />
   </main>
   <KeyboardManager />
 </Layout>
@@ -47,5 +47,16 @@ const { banner } = basics;
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 2rem;
+  }
+
+  @media screen and (max-width: 768px) {
+    .project-skill {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media print {
+    .no-print {
+      display: none;
+    }
   }
 </style>
