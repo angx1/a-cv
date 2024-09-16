@@ -32,7 +32,7 @@ const { banner } = basics;
     </div>
     <Credits class="no-print" />
   </main>
-  <KeyboardManager />
+  <KeyboardManager class="moviles" />
 </Layout>
 
 <style>
@@ -52,6 +52,9 @@ const { banner } = basics;
   @media screen and (max-width: 768px) {
     .project-skill {
       grid-template-columns: 1fr;
+    }
+    .moviles {
+      display: none;
     }
   }
   @media print {
