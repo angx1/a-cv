@@ -1,4 +1,4 @@
-<div>
+<div class="no-print">
   <span>
     <p>
       cv landing page based on - <a
@@ -27,5 +27,11 @@
 
   div {
     margin-top: 2rem;
+  }
+
+  @media print {
+    .no-print {
+      display: none !important;
+    }
   }
 </style>
