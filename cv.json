@@ -245,13 +245,16 @@
         "DApps"
       ]
     },{
-      "name": "SQL/NoSQL Databases",
-      "level": "Advanced",
+      "name": "SQL",
+      "level": "Intermediate",
       "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "Queries",
-        "Database Design"
+        
+      ]
+      },{
+      "name": "Vector Databases",
+      "level": "Intermediate",
+      "keywords": [
+        
       ]
       }
     ],
@@ -273,7 +276,7 @@
           "name": "Jane Doe",
           "reference": "Reference…"
           }],
-    "projects": [{
+        "projects": [{
             "name": "BioMad",
             "isActive": true,
             "startDate": "",
