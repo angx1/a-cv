@@ -8,7 +8,11 @@
     "email": "angel.rodriguez3rm@gmail.com",
     "phone": "+34 645 969 975",
     "url": "https://a--hrm.com/",
-    "summary": "Highly motivated software engineer with experience designing and developing software across the full stack, and blockchain technologies. With background in data processing and transformation, I have leveraged Large Language Models within Retrieval Augmented Generation architectures using the LangChain framework.  Committed to continuous learning and innovation, I am always seeking opportunities for personal and professional growth.",
+    "summary": "Highly motivated computer science student with a strong foundation in software design and development. I have a background in blockchain technologies and data processing and transformation, leveraging Large Language Models within Retrieval Augmented Generation architectures. Committed to continuous learning and innovation, I am always seeking opportunities for personal and professional growth.",
+    
+    
+
+
     
     "location": {
       "address": "2712 Broadway St",
@@ -169,6 +173,15 @@
     },
     {
       "name": "LangChain",
+      "level": "Beginner",
+      "keywords": [
+        "AI Integration",
+        "LLMs",
+        "Python APIs",
+        "Automation"
+      ]
+    },{
+      "name": "SwiftUI",
       "level": "Beginner",
       "keywords": [
         "AI Integration",
