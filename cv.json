@@ -1,14 +1,14 @@
 {
-  "lastUpdate":"03-12-2024",
+  "lastUpdate":"10-02-2025",
   "basics": {
     "banner":"angel",
     "name": "Angel Rodriguez Moran",
-    "label": "Forward-thinking student pursuing personal and professional development, with strong work ethic and an entrepreneur mindset.",
-    "image": "https://media.licdn.com/dms/image/v2/D4E03AQELtw9HqNOayA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718265328995?e=1738800000&v=beta&t=lIs-UKka1YrcFpugIAlgDtQvUMwe9qPbtZrI22Z-E_k",
+    "label": "",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQELtw9HqNOayA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718265328995?e=1744848000&v=beta&t=-LRCFEy3M3oMjnF9Bj57waW-bPWLHtw_WbCb53L9GSU",
     "email": "angel.rodriguez3rm@gmail.com",
     "phone": "+34 645 969 975",
     "url": "https://a--hrm.com/",
-    "summary": "Highly motivated Computer Science student passionate about building innovative software solutions, particularly in the field of AI. I have experience developing applications leveraging blockchain technologies, data processing and transformation, and Large Language Models within Retrieval Augmented Generation architectures. I am a firm believer in continuous learning and constantly seeking opportunities to expand my skills and contribute to challenging projects.",
+    "summary": "Highly motivated Software Engineer student passionate about building innovative and meaningful solutions. Pursuing personal and professional development, with strong work ethic and an entrepreneur mindset.",
     
     "location": {
       "address": "2712 Broadway St",
@@ -28,6 +28,17 @@
     }]
   },
   "work": [{
+    "name": "Banco de España",
+    "position": "Data Engineer Intern",
+    "url": "https://www.bde.es/wbe/es/",
+    "startDate": "2024-11-01",
+    "endDate": "2025-04-01",
+    "location": "Spain",
+    "summary": "Worked on a news analysis tool by implementing a data processing pipeline. Applied NLP and Latent Dirichlet Allocation (LDA) to extract key topics from news articles, providing valuable insights for the Operational Risk Department",
+    "highlights": [
+      
+    ]
+  },{
     "name": "Rein Medical",
     "position": "Intern Technitian",
     "url": "https://reinmedical.com/en",
