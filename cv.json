@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "10-02-2025",
+  "lastUpdate": "31-07-2025",
   "basics": {
     "banner": "angel",
     "name": "Angel Rodriguez Moran",
     "label": "",
-    "image": "https://media.licdn.com/dms/image/v2/D4E03AQELtw9HqNOayA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718265328995?e=1752105600&v=beta&t=J67UJeyi1CE8s3QDY4Kv-fnJSyNyxtUoOBASMeH0gYU",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQELtw9HqNOayA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718265328995?e=1756944000&v=beta&t=JUc5nNkNZz_bgkOZOmGwvTvOnupLrFTm-u-lnQFNLhY",
     "email": "angel.rodriguez3rm@gmail.com",
     "phone": "+34 645 969 975",
     "url": "https://a--hrm.com/",
@@ -216,22 +216,24 @@
   "references": [],
   "projects": [
     {
-      "name": "BioMad",
+      "name": "panot",
       "isActive": true,
       "startDate": "",
       "endDate": "",
-      "description": "StartUp that aimed to provide circular solutions for organic waste based on bioplastics.",
-      "highlights": ["Won Second Award at Madrid Telefónica's 2024 Hackaton"],
-      "url": "https://m.youtube.com/watch?v=5g9gIKanliA&ab_channel=javiprl"
+      "description": "ios contacts app, but on steroids.",
+      "highlights": [
+        "I'll be presenting this project as my final bachelor thesis"
+      ],
+      "url": "https://github.com/angx1/panot"
     },
     {
-      "name": "Menura",
-      "isActive": true,
+      "name": "clipper",
+      "isActive": false,
       "startDate": "",
       "endDate": "",
-      "description": "AI powered study companion device that records, transcribes and summarizes lectures and meetings.",
-      "highlights": [],
-      "url": "https://github.com/msiciliag/menura.git"
+      "description": "open-source mac menu bar app that allow you to clip python scripts",
+      "highlights": ["first open-source project, and it was fun"],
+      "url": "https://github.com/angx1/clipper"
     }
   ]
 }
