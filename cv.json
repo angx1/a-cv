@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "31-07-2025",
+  "lastUpdate": "16-12-2025",
   "basics": {
     "banner": "angel",
     "name": "Angel Rodriguez Moran",
     "label": "",
-    "image": "https://media.licdn.com/dms/image/v2/D4E03AQELtw9HqNOayA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718265328995?e=1763596800&v=beta&t=ks7o8f3nbrMQ_TJkea4J6d09wTbAurJlMpxEvo9-gck",
+    "image": "https://media.licdn.com/dms/image/v2/D4E03AQELtw9HqNOayA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718265328995?e=1767225600&v=beta&t=wLj63x02badF2sBHPJuezHCoiVn0f49e-DC_PmSxCSw",
     "email": "angel.rodriguez3rm@gmail.com",
     "phone": "+34 645 969 975",
     "url": "https://a--hrm.com/",
@@ -26,7 +26,7 @@
       {
         "network": "LinkedIn",
         "username": "Angel Rodriguez Moran",
-        "url": "https://www.linkedin.com/in/%C3%A1ngel-rodr%C3%ADguez-mor%C3%A1n-274868301/"
+        "url": "https://www.linkedin.com/in/angel-rodriguez-moran/"
       }
     ]
   },
@@ -111,6 +111,11 @@
       "keywords": ["HTML", "CSS", "JavaScript"]
     },
     {
+      "name": "iOS Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
       "name": "Git",
       "level": "Advanced",
       "keywords": ["Version Control", "GitHub", "GitLab", "Branching"]
@@ -142,7 +147,7 @@
       "keywords": ["Scripting", "Automation", "Django", "Flask"]
     },
     {
-      "name": "LangChain",
+      "name": "LangChain Ecosystem",
       "level": "Beginner",
       "keywords": ["AI Integration", "LLMs", "Python APIs", "Automation"]
     },
@@ -152,13 +157,8 @@
       "keywords": ["AI Integration", "LLMs", "Python APIs", "Automation"]
     },
     {
-      "name": "Rust",
-      "level": "Intermediate",
-      "keywords": ["Memory Safety", "Concurrency", "Systems Programming"]
-    },
-    {
       "name": "C/C++",
-      "level": "Advanced",
+      "level": "Beginner",
       "keywords": [
         "C",
         "C++",
@@ -169,17 +169,17 @@
     },
     {
       "name": "Java",
-      "level": "Advanced",
+      "level": "Beginner",
       "keywords": ["OOP", "Spring", "JVM", "Multithreading"]
     },
     {
       "name": "React",
-      "level": "Advanced",
+      "level": "Beginner",
       "keywords": ["React.js", "Components", "Hooks", "JSX"]
     },
     {
       "name": "Astro",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Astro Framework",
         "Static Site Generation",
@@ -192,7 +192,7 @@
       "keywords": ["Smart Contracts", "Blockchain", "Ethereum", "DApps"]
     },
     {
-      "name": "SQL",
+      "name": "Relational Databases",
       "level": "Intermediate",
       "keywords": []
     },
@@ -221,9 +221,7 @@
       "startDate": "",
       "endDate": "",
       "description": "ios contacts app, but on steroids.",
-      "highlights": [
-        "really explored orchestration oriented architectural patterns on this one."
-      ],
+      "highlights": ["IOS app with agentic system integration"],
       "url": "https://github.com/angx1/panot"
     },
     {
