@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2025",
+  "lastUpdate": "10-02-2026",
   "basics": {
     "banner": "angel",
     "name": "Angel Rodriguez Moran",
@@ -220,17 +220,30 @@
       "isActive": true,
       "startDate": "",
       "endDate": "",
-      "description": "ios contacts app, but on steroids.",
-      "highlights": ["IOS app with agentic system integration"],
+      "description": "IOS contact's app with agentic system integration to modify contact's information based on user's interactions input",
+      "highlights": [
+        "Used Expo, LangChain, PostHog and LangSmith for analytics and Supabase for the database and authentication"
+      ],
       "url": "https://github.com/panot-hq/mobile"
+    },
+    {
+      "name": "HN search engine",
+      "isActive": true,
+      "startDate": "",
+      "endDate": "",
+      "description": "search engine for Hacker News, applying IDF and TF-IDF algorithms and Posts score to rank the most relevant articles",
+      "highlights": [
+        "building it using Rust for backend and Nextjs for frontend"
+      ],
+      "url": "https://github.com/angx1/hn-search-engine.git"
     },
     {
       "name": "clipper",
       "isActive": false,
       "startDate": "",
       "endDate": "",
-      "description": "open-source mac menu bar app that allows you to clip python scripts",
-      "highlights": ["first open-source project, and it was fun"],
+      "description": "open-sourced mac menu bar app that allows you to clip python scripts to automate tasks",
+      "highlights": ["Built using pure SwiftUI"],
       "url": "https://github.com/angx1/clipper"
     }
   ]
