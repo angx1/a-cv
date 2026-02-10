@@ -147,6 +147,11 @@
       "keywords": ["Scripting", "Automation", "Django", "Flask"]
     },
     {
+      "name": "Rust",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
       "name": "LangChain Ecosystem",
       "level": "Beginner",
       "keywords": ["AI Integration", "LLMs", "Python APIs", "Automation"]
@@ -178,6 +183,23 @@
       "keywords": ["React.js", "Components", "Hooks", "JSX"]
     },
     {
+      "name": "React Native / Expo",
+      "level": "Intermediate",
+      "keywords": [
+        "React Native",
+        "Expo",
+        "React.js",
+        "Components",
+        "Hooks",
+        "JSX"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["TypeScript", "JavaScript"]
+    },
+    {
       "name": "Astro",
       "level": "Beginner",
       "keywords": [
@@ -192,7 +214,7 @@
       "keywords": ["Smart Contracts", "Blockchain", "Ethereum", "DApps"]
     },
     {
-      "name": "Relational Databases",
+      "name": "PostgreSQL",
       "level": "Intermediate",
       "keywords": []
     },
