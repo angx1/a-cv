@@ -26,7 +26,7 @@ const { banner } = basics;
       <Languages />
     </div>
     <Experience />
-    <div class="container-main project-skill">
+    <div class="container-projects-skills">
       <Projects />
       <Skills />
     </div>
@@ -49,10 +49,9 @@ const { banner } = basics;
     gap: 2rem;
   }
 
-  @media screen and (max-width: 768px) {
-    .project-skill {
-      grid-template-columns: 1fr;
-    }
+  .container-projects-skills {
+    width: 100%;
+    max-width: 100%;
   }
 
 </style>

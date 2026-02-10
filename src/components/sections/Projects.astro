@@ -3,7 +3,7 @@ import Section from "@/components/Section.astro";
 import { projects } from "@cv";
 ---
 
-<Section tittle="Projects">
+<Section tittle="Projects" fullWidth>
   <ul>
     {
       projects.map(({ name, description, url, highlights, isActive }) => (
@@ -32,12 +32,9 @@ import { projects } from "@cv";
 <style>
   ul {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
-  }
-
-  li {
-    max-width: calc(100% - 40px); /* Adjust based on your image width */
+    width: 100%;
   }
 
   article {
