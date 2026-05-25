@@ -32,6 +32,16 @@
   },
   "work": [
     {
+      "name": "Ringr.ai",
+      "position": "Delivery Engineer",
+      "url": "https://ringr.ai/",
+      "startDate": "2026-02-09",
+      "endDate": "Present",
+      "location": "Spain",
+      "summary": "Working on the delivery, implementation and integration of the Ringr.ai agents and platform with clients, a platform for creating and managing conversational AI agents.",
+      "highlights": []
+    },
+    {
       "name": "Banco de España",
       "position": "Data Engineer Intern",
       "url": "https://www.bde.es/wbe/es/",
@@ -70,7 +80,7 @@
       "area": "",
       "studyType": "Software Engineering Degree",
       "startDate": "2021-09-01",
-      "endDate": null,
+      "endDate": "2026-02-01",
       "score": "",
       "description": "",
       "location": "Madrid, Spain",
@@ -200,6 +210,11 @@
       "keywords": ["TypeScript", "JavaScript"]
     },
     {
+      "name": "Stripe",
+      "level": "Intermediate",
+      "keywords": ["Fintech", "Startup"]
+    },
+    {
       "name": "Astro",
       "level": "Beginner",
       "keywords": [
@@ -249,13 +264,24 @@
       "url": "https://github.com/panot-hq/mobile"
     },
     {
-      "name": "HN search engine",
+      "name": "pulse",
       "isActive": true,
+      "startDate": "",
+      "endDate": "",
+      "description": "commercial USB-ready loop kit for DJs, enabling beat layering during live performances without additional hardware",
+      "highlights": [
+        "Pre-configured for Pioneer CDJ and Rekordbox with cue points and BPM set out of the box. Built using Nextjs, Stripe, and FLStudio for the loops"
+      ],
+      "url": "https://www.pulse-dj.com/en"
+    },
+    {
+      "name": "hn-search-engine",
+      "isActive": false,
       "startDate": "",
       "endDate": "",
       "description": "search engine for Hacker News, applying IDF and TF-IDF algorithms and Posts score to rank the most relevant articles",
       "highlights": [
-        "building it using Rust for backend and Nextjs for frontend"
+        "Building it using Rust for backend and Nextjs for frontend"
       ],
       "url": "https://github.com/angx1/hn-search-engine.git"
     },
